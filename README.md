@@ -1,4 +1,4 @@
-# Public_data_DataAnalysis
+# Public_data_Analysis
 ## 서울특별시 상권 분석
 [paris-tour_MarkerCluster](https://pmjuu.github.io/Public_data_Analysis/paris-tour_MarkerCluster.html)   
 파리바게뜨와 뚜레쥬르 매장수를 MarkerCluster를 통해 지도 상에 나타냈습니다.
