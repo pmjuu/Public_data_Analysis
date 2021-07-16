@@ -14,4 +14,4 @@
 ![589859-286688-4455448_1](https://user-images.githubusercontent.com/50537876/125959465-c6d2b5e5-034b-489f-9b33-4f27e625a39e.jpg)
 
 [study pattern analysis](https://pmjuu.github.io/Public_data_Analysis/study_pattern_analysis.html)
-![image](https://user-images.githubusercontent.com/50537876/125959815-059069e1-0e0f-4e06-a098-b30f7a191d36.png)
+![image](https://user-images.githubusercontent.com/50537876/125960910-c5dc581d-e67e-4c5d-8054-6b41a4766092.png)
